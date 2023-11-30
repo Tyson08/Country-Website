@@ -1,0 +1,22 @@
+h1{
+    color: rgb(1, 45, 83);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center; 
+}
+.nav{
+    list-style: none;
+    margin: auto;
+    border-style:groove;
+    width: 50vw;
+    padding-left: 0;
+    
+    text-align: center;
+}
+.nav>li{
+    border-style: outset;
+    display: inline-block;
+}
+.nav>li>a{
+    text-decoration: none;
+    color: black;
+}
